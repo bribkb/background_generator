@@ -1,1 +1,1 @@
-# gradient background generator with corresponding css code for implementation
+# Gradient background generator that displays CSS linear gradient properties.
